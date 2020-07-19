@@ -36,8 +36,8 @@ Remainder 0
 
 ## Requirements
 
-•	The Polynomial constructor and add, subtract, product, quotient, and remainder methods must be completed.
-•	The code must work with the provided PolynomialInterface.java, DNode.java, DList.java, Term.java, and Utility.java classes and use the provided methods.
+- The Polynomial constructor and add, subtract, product, quotient, and remainder methods must be completed.
+- The code must work with the provided PolynomialInterface.java, DNode.java, DList.java, Term.java, and Utility.java classes and use the provided methods.
 
 
 
